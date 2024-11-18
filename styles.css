@@ -24,8 +24,10 @@ h1 {
   margin: auto;
 }
 img {
+  display: block;
   width: 153px;
   height: 95px;
+  border-radius: 0px 0px 10px 10px;
 }
 body:hover {
   transform: scale(1.8);
